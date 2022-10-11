@@ -34,6 +34,8 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Creator
 
+- Jesus Uziel
+
 [Tailwind Toolbox](https://www.tailwindtoolbox.com/) was created by and is maintained by **[Amrit Nagi](https://amritnagi.info/)**, Co-owner of [Astrava.Solutions](https://astrava.solutions).
 
 * https://twitter.com/tailwindtoolbox
