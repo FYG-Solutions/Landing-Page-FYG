@@ -34,7 +34,6 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Creator
 
-- Jesus Uziel
 
 [Tailwind Toolbox](https://www.tailwindtoolbox.com/) was created by and is maintained by **[Amrit Nagi](https://amritnagi.info/)**, Co-owner of [Astrava.Solutions](https://astrava.solutions).
 
@@ -44,6 +43,7 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
 
+- Jesus Uziel
 
 ## Image Attribution
 
