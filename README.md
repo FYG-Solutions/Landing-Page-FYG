@@ -33,7 +33,7 @@ Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start
 Have a bug or an issue with this template? [Open a new issue](https://github.com/tailwindtoolbox/Landing-Page/issues/new) here on GitHub.
 
 ## Creator
-
+Jorge Rodrigo Marcos Martinez
 [Tailwind Toolbox](https://www.tailwindtoolbox.com/) was created by and is maintained by **[Amrit Nagi](https://amritnagi.info/)**, Co-owner of [Astrava.Solutions](https://astrava.solutions).
 
 * https://twitter.com/tailwindtoolbox
