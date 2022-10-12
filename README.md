@@ -42,6 +42,9 @@ Jorge Rodrigo Marcos Martinez
 
 Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
 
+- María Itzel Marroquin Ramirez
+- Ramses Martinez
+--alan marin
 
 ## Image Attribution
 
