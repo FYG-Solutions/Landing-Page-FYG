@@ -46,6 +46,7 @@ Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) fr
 - Ramses Martinez
 --alan marin
 --Lopez Lopez Arturo
+--Salma Cruz
 
 ## Image Attribution
 
