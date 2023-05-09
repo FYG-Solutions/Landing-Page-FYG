@@ -46,7 +46,7 @@ Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) fr
 - Ramses Martinez
 --alan marin
 --Lopez Lopez Arturo
-
+-Alejandro Mart[inez
 ## Image Attribution
 
 [Hero vector created by freepik.com](https://www.freepik.com/free-vector/isometric-education-illustration_3940819.htm#page=1&query=isometric%20plane&position=1)
